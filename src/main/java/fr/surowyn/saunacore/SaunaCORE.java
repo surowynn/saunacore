@@ -29,7 +29,7 @@ public class SaunaCORE extends JavaPlugin {
         getServer().getPluginCommand("money").setExecutor(new MoneyCommand());
         getServer().getPluginManager().registerEvents(new PlayerJoin(), this);
 
-        System.out.println("[SAUNACORE] Successfully enabled SaunaCORE V1.0.0");
+        System.out.println("[SAUNACORE] Successfully enabled SaunaCORE v1.0.0");
     }
 
     public static SaunaCORE getInstance() {
