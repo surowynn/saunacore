@@ -1,0 +1,8 @@
+name: SaunaCORE
+version: 1.0.0
+api-version: 1.19
+description: Core plugin for SaunaMC
+author: Surowyn
+main: fr.surowyn.saunacore.SaunaCORE
+commands:
+  money:
